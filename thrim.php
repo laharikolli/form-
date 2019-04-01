@@ -4,4 +4,4 @@ echo "<br>";
 echo trim($str, " H");
 echo "<br>";
 echo trim($str, "ld! ");
-echo "<br>";
+
